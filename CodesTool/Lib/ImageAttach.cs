@@ -10,7 +10,7 @@ using System.Windows.Media.Imaging;
 namespace CodesTool.Lib
 {
     /// <summary>
-    /// ImageAttach
+    /// ImageAttach    
     /// </summary>
     public static class ImageAttach
     {
