@@ -9,6 +9,7 @@ using System.Windows.Media.Imaging;
 
 namespace CodesTool.Lib
 {
+    //test  for  merge
     /// <summary>
     /// ImageAttach    
     /// </summary>
